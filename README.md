@@ -1,9 +1,5 @@
-# KOFFEE-PROJECT-khangga
-
-A simple, minimal README for the KOFFEE-PROJECT-khangga repository.
-
 ## About
-This repository contains the KOFFEE project by khangga. It includes the source files for the project and instructions to run and contribute. Keep the project simple and focused on delivering the core features.
+This repository contains the KOFFEE project by kelvin du. It includes the source files for the project and instructions to run and contribute. Keep the project simple and focused on delivering the core features.
 
 ## Requirements
 - Git
